@@ -9,7 +9,7 @@
 * The dataset consists of 7349 images and masks
 * In this notebook uses U-Net model
 * U-Net architecture which I implement but with input image size (128,128,3)
-![My Image](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/u-net-architecture.png)
+![U-Net architecture](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/u-net-architecture.png)
 
 * U-Net model with
   - training accuracy 90.7%
