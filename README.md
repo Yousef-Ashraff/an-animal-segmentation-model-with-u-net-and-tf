@@ -1,7 +1,7 @@
 # Animal Segmentation Dataset 
 * Dataset Link: [The Oxford-IIIT Pet Dataset](https://www.robots.ox.ac.uk/~vgg/data/pets/)
 
-* Deployment Link: [](https://huggingface.co/spaces/YousefAshraf/demo_animal_seg)
+* Deployment Link: (https://huggingface.co/spaces/YousefAshraf/demo_animal_seg)
 
 * The dataset consists of several images  and masks divided into the following 2 classes:
   - Cats
