@@ -17,6 +17,8 @@
   - test accuracy 90.6%
 
 *The model runed 20 epoch and returned the best model in epoch 10 with augmentation
-  
+
+*Some sample of images
+![Cat image and mask](images/Cat1.png)
 
  
