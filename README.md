@@ -1,5 +1,5 @@
 # Animal Segmentation Dataset 
-* Dataset Link:[The Oxford-IIIT Pet Dataset](https://www.robots.ox.ac.uk/~vgg/data/pets/)
+* Dataset Link: [The Oxford-IIIT Pet Dataset](https://www.robots.ox.ac.uk/~vgg/data/pets/)
 
 * Deployment Link:
 
